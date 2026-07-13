@@ -1,4 +1,4 @@
-# 🏥 PharmaStock - Rede de Farmácias — Data Warehouse de Estoque (DrugStoreDB)
+# 🏥 Rede de Farmácias — Data Warehouse de Estoque (DrugStoreDB)
 
 > 🇧🇷 Português | [🇺🇸 English below](#-pharmacy-chain--stock-data-warehouse-drugstoredb)
 
@@ -124,7 +124,7 @@ python estoque_farmaceutico/script/analytics.dim_sala.py
 
 ---
 
-# 🇺🇸 PharmaStock - Pharmacy Chain — Stock Data Warehouse (DrugStoreDB)
+# 🇺🇸 Pharmacy Chain — Stock Data Warehouse (DrugStoreDB)
 
 ## About the project
 
